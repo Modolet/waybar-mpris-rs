@@ -1,0 +1,7 @@
+"custom/music": {
+    "return-type": "json",
+    "exec": "/home/modolet/waybar-mpris-rs",
+    "on-click": "/home/modolet/waybar-mpris-rs --toggle",
+    "on-scroll-up": "/home/modolet/waybar-mpris-rs --prev",
+    "on-scroll-down": "/home/modolet/waybar-mpris-rs --next"
+},
